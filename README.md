@@ -15,7 +15,9 @@ Flat
 
 
 Mac-Ish
+![Mac-Ish Icons](_images_/mosaic-mac-ish.jpg "Mac-Ish Icons")
 
 Monochrome
+![Monochrome Icons](_images_/mosaic-monochrome.jpg "Monochrome Icons")
 
 
